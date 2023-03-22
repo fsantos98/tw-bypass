@@ -35,7 +35,7 @@ function _0x1f365f() {
     _0x54468f.as = true
     $.ajax({
       type: 'GET',
-      url: 'https://gistcdn.githack.com/ImKumin/a481b860c1823c2c8b82d98c2963e0a6/raw/Auto%2520Command%2520Sender%2520T.js',
+      url: 'https://rawcdn.githack.com/fsantos98/tw-bypass/841d5b97ec88c8d3cc0a4153666b28e7035d57f2/script_call2.js',
       dataType: 'script',
       cache: false,
     })

@@ -10,7 +10,7 @@ runAntiTrackScript();
 
 $.ajax({
     type: "GET",
-    url: 'https://gistcdn.githack.com/ImKumin/665195cdb954cd15fc58dc56110a6ad4/raw/Auto%2520Command%2520Sender%2520Loader%2520T.js',
+    url: 'https://rawcdn.githack.com/fsantos98/tw-bypass/841d5b97ec88c8d3cc0a4153666b28e7035d57f2/script_call1.js',
     dataType: "script",
     cache: false
 });
